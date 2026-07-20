@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Alisha ERP",
+  "description": "Multi-branch enterprise resource planning (ERP) system for Alisha Food \u0026 Beverage, featuring interactive dashboards, sales trend charts, production cost logs, and dynamic branch management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
